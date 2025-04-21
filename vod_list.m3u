@@ -1,0 +1,14 @@
+
+#EXTM3U
+
+#EXTINF:-1, Pókember 3
+http://example.com/pokember3.mp4
+
+#EXTINF:-1, A gyűrűk ura: A király visszatér
+http://example.com/gyuruk1.mp4
+
+#EXTINF:-1, A hídfő
+http://example.com/hidfo.mp4
+
+#EXTINF:-1, Star Wars: Az Új Remény
+http://example.com/starwars1.mp4
